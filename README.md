@@ -11,8 +11,7 @@ This project uses a deep learning model based on **ResNet-50** to detect identic
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/twin-detect.git
-   cd twin-detect
+   https://github.com/Nettemrakesh/Twin-Detect
    ```
 2. Install required dependencies:
    ```bash
