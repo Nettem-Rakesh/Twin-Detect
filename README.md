@@ -1,5 +1,4 @@
-# Twin-Detect
-# Identical Twins Detection using ResNet-50
+# Identical Twins Detection
 
 This project uses a deep learning model based on **ResNet-50** to detect identical twins from images. Users can upload an image, and the model will compare it against a reference dataset to determine identical twin matches.
 
@@ -27,7 +26,6 @@ This project uses a deep learning model based on **ResNet-50** to detect identic
    python app.py
    ```
 2. **Upload an Image:**
-   - Open your browser and go to `http://127.0.0.1:5000`
    - Upload an image for twin detection.
    - The model will compare the uploaded image with the dataset and display the best match.
 
@@ -37,7 +35,7 @@ This project uses a deep learning model based on **ResNet-50** to detect identic
 - **Output**: Identical twin match from the dataset
 
 ## Demo
-[Upload an image here](http://127.0.0.1:5000) (once the application is running).
+![Image](https://github.com/user-attachments/assets/0e1d8e10-15ec-4fcb-b30e-ddae6e46de6d)
 
 ## Dataset
 The dataset contains labeled twin images for training and matching purposes. Ensure the dataset is placed in the `dataset/` directory before running the model.
